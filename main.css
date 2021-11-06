@@ -1,0 +1,13 @@
+
+.shop{
+    display:flex;
+    flex-wrap: wrap;
+}
+
+.book{
+    width:100px;
+    border: 2px solid brown;
+    border-radius: 12px;
+    margin: 20px;
+    padding: 20px;
+}

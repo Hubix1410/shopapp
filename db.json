@@ -1,0 +1,63 @@
+{
+  "books": [{
+    "id": 0,
+    "name": "Hobbit",
+    "author": "J. R. R. Tolkien",
+    "basePrice": 19.99
+  }, {
+    "id": 1,
+    "name": "Wolf of Wall Street",
+    "author": "Jordan Belfort",
+    "basePrice": 29.99
+  },{
+    "id": 2,
+    "name": "Listopadowe porzeczki",
+    "author": "Andrus Kivirahk",
+    "basePrice": 14.99
+  },{
+    "id": 3,
+    "name": "Król Pik",
+    "author": "Monika Godlewska",
+    "basePrice": 24.99
+  },{
+    "id": 5,
+    "name": "Jak zawsze w grudniu",
+    "author": "Emily Stone",
+    "basePrice": 29.99
+  },{
+    "id": 6,
+    "name": "Władca Pierścieni",
+    "author": "J. R. R. Tolkien ",
+    "basePrice": 49.99
+  },{
+    "id": 7,
+    "name": "Uwikłana",
+    "author": "Alicja Sinicka",
+    "basePrice": 10.99
+  },{
+    "id": 8,
+    "name": "Pieśń o Achillesie",
+    "author": "Madeline Miller",
+    "basePrice": 29.99
+  },{
+    "id": 9,
+    "name": "Wiedźmin. Tom 8. Sezon burz",
+    "author": "Andrzej Sapkowski",
+    "basePrice": 39.99
+  },{
+    "id": 10,
+    "name": "Wiedźmin. Tom 7. Pani Jeziora",
+    "author": "Andrzej Sapkowski",
+    "basePrice": 39.99
+  },{
+    "id": 11,
+    "name": "Wiedźmin. Tom 6. Wieża jaskółki",
+    "author": "Andrzej Sapkowski",
+    "basePrice": 39.99
+  },{
+    "id": 12,
+    "name": "Wiedźmin. Tom 5. Chrzest ognia",
+    "author": "Andrzej Sapkowski",
+    "basePrice": 39.99
+  }]
+}
